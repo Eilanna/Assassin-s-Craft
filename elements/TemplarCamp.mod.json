@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "structure",
   "definition": {
     "structure": "templar_camp_with_knights_v2",
@@ -10,6 +10,8 @@
     "maxCountPerChunk": 1,
     "spawnLocation": "Ground",
     "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
     "spawnWorldTypes": [
       "CUSTOM:Thethirdcrusade1189"
     ],

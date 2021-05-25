@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecrownreborn:blocks/stone",
+    "up": "minecrownreborn:blocks/assasin_tomb_jacob",
+    "north": "minecrownreborn:blocks/stone",
+    "east": "minecrownreborn:blocks/stone",
+    "south": "minecrownreborn:blocks/stone",
+    "west": "minecrownreborn:blocks/stone",
+    "particle": "minecrownreborn:blocks/stone"
+  }
+}

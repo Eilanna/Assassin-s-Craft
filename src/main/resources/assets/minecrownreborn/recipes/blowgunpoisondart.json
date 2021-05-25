@@ -1,0 +1,16 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "result": {
+    "item": "minecrownreborn:poisonblowgundart",
+    "count": 3
+  }
+}

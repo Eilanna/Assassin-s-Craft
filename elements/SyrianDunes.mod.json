@@ -1,29 +1,13 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
+    "name": "Syrian Dunes",
     "groundBlock": {
       "value": "Blocks.SAND#0"
     },
     "undergroundBlock": {
       "value": "Blocks.SANDSTONE#0"
-    },
-    "generateLakes": false,
-    "treeType": 0,
-    "vanillaTreeType": "Default",
-    "minHeight": 0,
-    "spawnVines": true,
-    "treeVines": {
-      "value": "Blocks.AIR"
-    },
-    "treeStem": {
-      "value": "Blocks.DEADBUSH"
-    },
-    "treeBranch": {
-      "value": "Blocks.AIR"
-    },
-    "treeFruits": {
-      "value": "Blocks.AIR"
     },
     "airColor": {
       "value": -5923733,
@@ -33,31 +17,77 @@
       "value": -7442617,
       "falpha": 0.0
     },
+    "foliageColor": {
+      "value": -7442617,
+      "falpha": 0.0
+    },
     "waterColor": {
       "value": -14329397,
       "falpha": 0.0
     },
-    "treesPerChunk": 0,
-    "grassPerChunk": 0,
-    "flowersPerChunk": 0,
-    "mushroomsPerChunk": 0,
-    "bigMushroomsChunk": 0,
-    "sandPathcesPerChunk": 1,
-    "gravelPatchesPerChunk": 0,
-    "reedsPerChunk": 0,
-    "cactiPerChunk": 0,
-    "rainingPossibility": 0.0,
-    "temperature": 1.25,
-    "baseHeight": 0.1,
-    "heightVariation": 0.0,
-    "spawnBiome": false,
-    "biomeWeight": 10,
-    "biomeType": "DESERT",
+    "waterFogColor": {
+      "value": -14329397,
+      "falpha": 0.0
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
     },
+    "rainingPossibility": 0.0,
+    "temperature": 1.25,
+    "baseHeight": 0.1,
+    "heightVariation": 0.0,
+    "biomeType": "DESERT",
+    "spawnBiome": false,
+    "biomeWeight": 10,
     "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 0,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "Blocks.DEADBUSH"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "MonsterRooms",
+      "Ores",
+      "Lakes",
+      "FrozenTopLayer"
+    ],
     "spawnEntries": [
       {
         "entity": {

@@ -1,0 +1,21 @@
+{
+  "parent": "minecrownreborn:custom/pc_animus",
+  "textures": {
+    "all": "minecrownreborn:blocks/texture_10",
+    "particle": "minecrownreborn:blocks/texture_10",
+    "11": "minecrownreborn:blocks/texture_0",
+    "12": "minecrownreborn:blocks/texture_animated_7",
+    "13": "minecrownreborn:blocks/texture_animated_8",
+    "1_0": "minecrownreborn:blocks/texture_10",
+    "14": "minecrownreborn:blocks/texture_animated_9",
+    "1_2": "minecrownreborn:blocks/texture_11",
+    "16": "minecrownreborn:blocks/table",
+    "17": "minecrownreborn:blocks/monitor_1",
+    "1": "minecrownreborn:blocks/texture_0",
+    "2": "minecrownreborn:blocks/texture_1",
+    "3": "minecrownreborn:blocks/texture_11",
+    "4": "minecrownreborn:blocks/texture_animated_8",
+    "5": "minecrownreborn:blocks/texture_animated_3",
+    "9": "minecrownreborn:blocks/texture_5"
+  }
+}

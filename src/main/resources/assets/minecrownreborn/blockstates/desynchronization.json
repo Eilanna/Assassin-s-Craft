@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:desynchronization"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:desynchronization"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:desynchronization",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:desynchronization",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:desynchronization",
+      "y": 270
+    }
+  }
+}

@@ -1,10 +1,12 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 550,
-    "height": 366,
+    "width": 275,
+    "height": 183,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
     "renderBgLayer": true,
     "doesPauseGame": false,
     "components": [
@@ -17,8 +19,8 @@
             "falpha": 0.0
           },
           "name": "Animus",
-          "x": 385,
-          "y": 78
+          "x": 193,
+          "y": 39
         }
       },
       {
@@ -30,8 +32,8 @@
             "falpha": 0.0
           },
           "name": "Travel to:",
-          "x": 177,
-          "y": 110
+          "x": 89,
+          "y": 55
         }
       },
       {
@@ -41,11 +43,11 @@
           "onClick": {
             "name": "GuiAnimusItalybutton"
           },
-          "width": 240,
-          "height": 40,
+          "width": 120,
+          "height": 20,
           "name": "Italy - 1459",
-          "x": 285,
-          "y": 205
+          "x": 143,
+          "y": 103
         }
       },
       {
@@ -55,11 +57,11 @@
           "onClick": {
             "name": "Thethirdcrusade1189buttonpressed"
           },
-          "width": 480,
-          "height": 40,
+          "width": 240,
+          "height": 20,
           "name": "The third crusade",
-          "x": 179,
-          "y": 146
+          "x": 90,
+          "y": 73
         }
       }
     ]

@@ -1,10 +1,12 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 352,
-    "height": 332,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
     "renderBgLayer": true,
     "doesPauseGame": false,
     "components": [
@@ -12,18 +14,20 @@
         "type": "image",
         "data": {
           "image": "map fondo 2.png",
+          "use1Xscale": false,
           "name": "map fondo 2.png",
-          "x": 182,
-          "y": 36
+          "x": 91,
+          "y": 18
         }
       },
       {
         "type": "image",
         "data": {
           "image": "b.png",
+          "use1Xscale": false,
           "name": "b.png",
-          "x": 264,
-          "y": 99
+          "x": 132,
+          "y": 50
         }
       },
       {
@@ -35,8 +39,8 @@
             "falpha": 0.0
           },
           "name": "Kingdom",
-          "x": 275,
-          "y": 117
+          "x": 138,
+          "y": 59
         }
       },
       {
@@ -46,11 +50,11 @@
           "onClick": {
             "name": "ReturnfromMasyaf"
           },
-          "width": 80,
-          "height": 40,
+          "width": 40,
+          "height": 20,
           "name": "Camp",
-          "x": 327,
-          "y": 282
+          "x": 164,
+          "y": 141
         }
       }
     ]

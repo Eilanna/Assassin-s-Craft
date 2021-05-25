@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:animuspc"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:animuspc"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:animuspc",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:animuspc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:animuspc",
+      "y": 270
+    }
+  }
+}

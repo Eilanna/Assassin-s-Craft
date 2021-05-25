@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "tool",
   "definition": {
     "renderType": 1,
@@ -30,6 +30,7 @@
         "value": "CUSTOM:Longsword"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

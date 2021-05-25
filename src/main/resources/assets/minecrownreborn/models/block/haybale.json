@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecrownreborn:blocks/hay_bale",
+    "up": "minecrownreborn:blocks/hay_bale",
+    "north": "minecrownreborn:blocks/hay_bale",
+    "east": "minecrownreborn:blocks/hay_bale",
+    "south": "minecrownreborn:blocks/hay_bale",
+    "west": "minecrownreborn:blocks/hay_bale",
+    "particle": "minecrownreborn:blocks/hay_bale"
+  }
+}

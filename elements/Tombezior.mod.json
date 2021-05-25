@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "structure",
   "definition": {
     "structure": "ezio_tomb_(relevations)",
@@ -10,6 +10,8 @@
     "maxCountPerChunk": 1,
     "spawnLocation": "Underground",
     "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
     "spawnWorldTypes": [
       "Surface"
     ],

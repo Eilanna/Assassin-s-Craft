@@ -1,0 +1,10 @@
+{
+  "parent": "minecrownreborn:custom/assassin_tomb_edward",
+  "textures": {
+    "all": "minecrownreborn:blocks/stone",
+    "particle": "minecrownreborn:blocks/stone",
+    "0": "minecrownreborn:blocks/calaca",
+    "1": "minecrownreborn:blocks/assasin_tomb",
+    "2": "minecrownreborn:blocks/stone"
+  }
+}

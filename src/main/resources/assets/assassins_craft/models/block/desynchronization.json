@@ -1,8 +1,0 @@
-{
-  "parent": "assassins_craft:custom/desynchronization",
-  "textures": {
-    "all": "assassins_craft:blocks/desynchronization_final",
-    "particle": "assassins_craft:blocks/desynchronization_final",
-    "main": "assassins_craft:blocks/desynchronization_final"
-  }
-}

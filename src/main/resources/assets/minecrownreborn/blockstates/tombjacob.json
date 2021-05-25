@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:tombjacob"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:tombjacob"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:tombjacob",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:tombjacob",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:tombjacob",
+      "y": 270
+    }
+  }
+}

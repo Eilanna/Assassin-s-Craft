@@ -1,0 +1,16 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecrownreborn:eaglefeather"
+    },
+    {
+      "item": "minecrownreborn:emptysyringe"
+    }
+  ],
+  "result": {
+    "item": "minecrownreborn:sryingeeaglevision",
+    "count": 1
+  }
+}

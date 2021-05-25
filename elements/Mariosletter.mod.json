@@ -1,10 +1,12 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 241,
-    "height": 332,
+    "width": 121,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
     "renderBgLayer": true,
     "doesPauseGame": false,
     "components": [
@@ -12,9 +14,10 @@
         "type": "image",
         "data": {
           "image": "map (4).png",
+          "use1Xscale": false,
           "name": "map (4).png",
-          "x": 303,
-          "y": 63
+          "x": 152,
+          "y": 32
         }
       }
     ]

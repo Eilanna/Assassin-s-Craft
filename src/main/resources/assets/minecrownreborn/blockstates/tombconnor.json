@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:tombconnor"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:tombconnor"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:tombconnor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:tombconnor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:tombconnor",
+      "y": 270
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "mob",
   "definition": {
     "mobName": "Uncle Mario",
@@ -46,6 +46,8 @@
     "mobBehaviourType": "Mob",
     "mobCreatureType": "UNDEFINED",
     "attackStrength": 8,
+    "attackKnockback": 0.0,
+    "knockbackResistance": 0.0,
     "movementSpeed": 0.3,
     "armorBaseValue": 10.0,
     "trackingRange": 64,
@@ -67,6 +69,11 @@
     "immuneToLightning": false,
     "immuneToPotions": true,
     "immuneToPlayer": true,
+    "immuneToExplosion": false,
+    "immuneToTrident": false,
+    "immuneToAnvil": false,
+    "immuneToWither": false,
+    "immuneToDragonBreath": false,
     "mobDrop": {
       "value": "CUSTOM:HojaOculta"
     },

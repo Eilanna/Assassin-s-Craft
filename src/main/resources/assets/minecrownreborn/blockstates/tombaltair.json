@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:tombaltair"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:tombaltair"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:tombaltair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:tombaltair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:tombaltair",
+      "y": 270
+    }
+  }
+}

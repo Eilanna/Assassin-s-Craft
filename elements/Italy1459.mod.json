@@ -1,24 +1,7 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "dimension",
   "definition": {
-    "portalFrame": {
-      "value": "CUSTOM:TombEzio"
-    },
-    "portalParticles": {
-      "value": "ENCHANTMENT_TABLE"
-    },
-    "portalLuminance": 0.0,
-    "portalSound": {
-      "value": "block.portal.ambient"
-    },
-    "igniterName": "Italy1459 Portal Igniter",
-    "igniterTab": {
-      "value": "CUSTOM:AssassinsCreedProps"
-    },
-    "texture": "nosexd",
-    "portalTexture": "portal",
-    "enablePortal": false,
     "biomesInDimension": [
       {
         "value": "CUSTOM:ItalianPlains"
@@ -47,7 +30,6 @@
     },
     "canRespawnHere": true,
     "hasFog": false,
-    "hasWeather": true,
     "isDark": false,
     "doesWaterVaporize": false,
     "sleepResult": "ALLOW",
@@ -58,6 +40,23 @@
     },
     "onPlayerLeavesDimension": {
       "name": "Italy1459PlayerLeavesDimension"
-    }
+    },
+    "portalFrame": {
+      "value": "CUSTOM:TombEzio"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Italy1459 Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "texture": "nosexd",
+    "portalTexture": "portal",
+    "enablePortal": false
   }
 }

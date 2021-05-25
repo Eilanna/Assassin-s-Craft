@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "tool",
   "definition": {
     "renderType": 0,
@@ -30,6 +30,7 @@
         "value": "Items.IRON_SWORD"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

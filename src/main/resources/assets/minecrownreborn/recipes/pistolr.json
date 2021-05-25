@@ -1,0 +1,27 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:dispenser"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecrownreborn:pistol",
+    "count": 1
+  }
+}

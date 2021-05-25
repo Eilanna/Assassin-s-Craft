@@ -1,0 +1,26 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:hay_block"
+    },
+    "1": {
+      "item": "minecraft:hay_block"
+    },
+    "2": {
+      "item": "minecraft:hay_block"
+    },
+    "3": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "result": {
+    "item": "minecrownreborn:haybale",
+    "count": 4
+  }
+}

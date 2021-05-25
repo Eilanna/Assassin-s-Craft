@@ -1,0 +1,9 @@
+{
+  "parent": "minecrownreborn:custom/animus",
+  "textures": {
+    "all": "minecrownreborn:blocks/animus_chair",
+    "particle": "minecrownreborn:blocks/animus_chair",
+    "0": "minecrownreborn:blocks/animus_chair",
+    "1": "minecrownreborn:blocks/nimus_rm_and_cables"
+  }
+}

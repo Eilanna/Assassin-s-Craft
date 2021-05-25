@@ -1,0 +1,24 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_sword"
+    },
+    "2": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecrownreborn:canesword",
+    "count": 1
+  }
+}

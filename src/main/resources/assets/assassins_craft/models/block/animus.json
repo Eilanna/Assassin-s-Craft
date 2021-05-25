@@ -1,9 +1,0 @@
-{
-  "parent": "assassins_craft:custom/animus",
-  "textures": {
-    "all": "assassins_craft:blocks/animus_chair",
-    "particle": "assassins_craft:blocks/animus_chair",
-    "0": "assassins_craft:blocks/animus_chair",
-    "1": "assassins_craft:blocks/nimus_rm_and_cables"
-  }
-}

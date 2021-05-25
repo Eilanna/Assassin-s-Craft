@@ -1,5 +1,5 @@
 {
-  "_fv": 10,
+  "_fv": 18,
   "_type": "procedure",
   "definition": {
     "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">player_in_bed</field><next><block type=\"variables_set_number\"><field name=\"VAR\">global:SpawnX</field><value name=\"VAL\"><block type=\"coord_x\"/></value><next><block type=\"variables_set_number\"><field name=\"VAR\">global:SpawnY</field><value name=\"VAL\"><block type=\"coord_y\"/></value><next><block type=\"variables_set_number\"><field name=\"VAR\">global:SpawnZ</field><value name=\"VAL\"><block type=\"coord_z\"/></value><next><block type=\"set_global_spawn\"><value name=\"x\"><block type=\"variables_get_number\"><field name=\"VAR\">global:SpawnX</field></block></value><value name=\"y\"><block type=\"variables_get_number\"><field name=\"VAR\">global:SpawnY</field></block></value><value name=\"z\"><block type=\"variables_get_number\"><field name=\"VAR\">global:SpawnZ</field></block></value></block></next></block></next></block></next></block></next></block></xml>"

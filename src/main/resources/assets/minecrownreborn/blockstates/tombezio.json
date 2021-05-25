@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:tombezio"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:tombezio"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:tombezio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:tombezio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:tombezio",
+      "y": 270
+    }
+  }
+}

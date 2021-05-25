@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:haybale"
+    },
+    "facing=south": {
+      "model": "minecrownreborn:haybale"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:haybale"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:haybale",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "minecrownreborn:haybale",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "minecrownreborn:haybale",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "minecrownreborn:haybale",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "minecrownreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:reeds"
+    },
+    "2": {
+      "item": "minecraft:reeds"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:reeds"
+    },
+    "8": {
+      "item": "minecraft:reeds"
+    }
+  },
+  "result": {
+    "item": "minecrownreborn:blowgun",
+    "count": 1
+  }
+}

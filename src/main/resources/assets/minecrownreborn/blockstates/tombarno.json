@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "minecrownreborn:tombarno"
+    },
+    "facing=north": {
+      "model": "minecrownreborn:tombarno"
+    },
+    "facing=east": {
+      "model": "minecrownreborn:tombarno",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecrownreborn:tombarno",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecrownreborn:tombarno",
+      "y": 270
+    }
+  }
+}
